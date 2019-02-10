@@ -13,3 +13,5 @@ To run code:
 
 1. Build the source using `make`
 2. Run the binary as `./go-syscall-ex`
+
+Note: The tests and the code have been verified on linux(fedora) machine
